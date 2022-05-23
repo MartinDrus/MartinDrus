@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @MartinDrus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Meine persönliche OnePager HardcodeSeite #
 
-<!---
-MartinDrus/MartinDrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Martin in Barca](img/Image.png)
+
+**Name:** Martin Drus
+
+**Age:** 33
+
+**Origin:** Köln
+
+---
+
+## Contacts:
+
+**e-Mail:** martindrus@gmail.com
+
+**Homepage:** [martindrus.de](https://www.martindrus.tv)
+
+
+---
+
+## Hobbies
+
++ 3D-Printing
++ Chess
++ Soccer
++ Jogging
+
+---
+
+## Favorite BASH Command ##
+
+```
+sudo apt update && sudo apt upgrade -y
+```
+
+
+---
+
+## Favorite Quote ##
+
+> Weak people **revenge**. Strong people **forgive**. Intelligent people **ignore**.
+> 
+> A **ship** is always safe at **shore** but that is not what it's built **for**.
+>
+> Stay away from **negative** people, they have a **problem** for every solution.
+
+---
