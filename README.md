@@ -1,6 +1,6 @@
 # Meine persönliche OnePager HardcodeSeite #
 
-![Martin in Barca](img/Image.png)
+![Martin in Barca](./img/Image.png)
 
 **Name:** Martin Drus
 
