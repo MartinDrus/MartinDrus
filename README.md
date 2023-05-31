@@ -2,8 +2,6 @@
 
 **Name:** Martin Drus
 
-**Age:** 33
-
 **Origin:** Köln
 
 ---
