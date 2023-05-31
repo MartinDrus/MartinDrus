@@ -6,15 +6,6 @@
 
 ---
 
-## Contacts:
-
-**e-Mail:** martindrus@gmail.com
-
-**Homepage:** [martindrus.de](https://www.martindrus.tv)
-
-
----
-
 ## Hobbies
 
 + 3D-Printing
