@@ -1,35 +1,4 @@
-# Meine persönliche OnePager HardcodeSeite #
-
-**Name:** Martin Drus
-
-**Origin:** Köln
-
----
-
-## Hobbies
-
-+ 3D-Printing
-+ Chess
-+ Soccer
-+ Jogging
-
----
-
-## Favorite BASH Command ##
-
-```
-sudo apt update && sudo apt upgrade -y
-```
+[![Videovorschau](https://res.cloudinary.com/db5xcrkwz/video/upload/v1685703855/RPReplay_Final1671027275_m3h491.jpg)](https://res.cloudinary.com/db5xcrkwz/video/upload/v1685703855/RPReplay_Final1671027275_m3h491.webm)
 
 
----
 
-## Favorite Quote ##
-> The best type of code is code you will never have to write.
->
-> Weak people **revenge**. Strong people **forgive**. Intelligent people **ignore**.
-> 
-> A **ship** is always safe at **shore** but that is not what it's built **for**.
->
-
----
