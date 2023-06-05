@@ -20,7 +20,7 @@ Hier finden Sie eine Liste meiner Projekte.
 - **Name:** Team Organzier
 - **Beschreibung:** Zufällige Wahl einer Person oder Teilgruppe eines Teams
 - **Sprachen:** React, JavaScript
-- **GitHub-Link:** [ArtShuttle](https://team-organizer-one.vercel.app/)
+- **GitHub-Link:** [Team Organizer](https://team-organizer-one.vercel.app/)
 
 ### ArtShuttle
 
