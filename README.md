@@ -15,6 +15,13 @@ Hier finden Sie eine Liste meiner Projekte.
 - **Sprachen:** HTML, CSS, JavaScript
 - **GitHub-Link:** [Fridge Management App](https://martindrus.github.io/Fridge-Management-App/)
 
+### Team Organzier
+
+- **Name:** Team Organzier
+- **Beschreibung:** Zufällige Wahl einer Person oder Teilgruppe eines Teams
+- **Sprachen:** React, JavaScript
+- **GitHub-Link:** [ArtShuttle](https://team-organizer-one.vercel.app/)
+
 ### ArtShuttle
 
 - **Name:** ArtShuttle
@@ -28,7 +35,7 @@ Hier finden Sie eine Liste meiner Projekte.
 - **Name:** Projekt 3
 - **Beschreibung:** Projekt um sich Auszuprobieren 
 - **Sprachen:** HTML, CSS, JavaScript
-- **GitHub-Link:** [Portfolio]([https://github.com/meinprojekt3](https://portfolio-project-three-tau.vercel.app/))
+- **GitHub-Link:** [Portfolio]([https://github.com/meinprojekt3](https://portfolio-project-three-tau.vercel.app/)
 
 ---
 
