@@ -43,7 +43,7 @@ Hier finden Sie eine Liste meiner Projekte.
 
 Wenn Sie Fragen oder Anregungen zu einem meiner Projekte haben oder mit mir in Kontakt treten möchten, können Sie mich über die folgenden Kanäle erreichen:
 
-- E-Mail: [meine@email.com](mailto:mail@martindrus.de)
+- E-Mail: [mail@martindrus.de](mailto:mail@martindrus.de)
 - LinkedIn: [Mein LinkedIn-Profil](www.linkedin.com/in/martin-drus)
 
 ---
