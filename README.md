@@ -7,6 +7,14 @@ Hier finden Sie eine Liste meiner Projekte.
 
 ## Projekte
 
+
+### Fridge Management App
+
+- **Name:** Fride Management App
+- **Beschreibung:** Eine Webanwendung für die Verwaltung eines fiktiven Kühlschranks.
+- **Sprachen:** HTML, CSS, JavaScript
+- **GitHub-Link:** [Fridge Management App](https://martindrus.github.io/Fridge-Management-App/)
+
 ### ArtShuttle
 
 - **Name:** ArtShuttle
@@ -14,19 +22,13 @@ Hier finden Sie eine Liste meiner Projekte.
 - **Sprachen:** React, JavaScript
 - **GitHub-Link:** [ArtShuttle](https://frontend-red-nine.vercel.app/)
 
-### Fridge Management App
 
-- **Name:** Fride Management App
-- **Beschreibung:** Eine Webanwendung für die Verwaltung eines fiktiven Kühlschranks.
-- **Sprachen:** HTML, CSS, JavaScript
-- **GitHub-Link:** [Projekt 2](https://martindrus.github.io/Fridge-Management-App/)
-
-### Projekt 3
+### Portfolio
 
 - **Name:** Projekt 3
-- **Beschreibung:** Ein Android-Quizspiel zum Erlernen von Fremdsprachen.
-- **Sprachen:** Java, XML
-- **GitHub-Link:** [Projekt 3](https://github.com/meinprojekt3)
+- **Beschreibung:** Projekt um sich Auszuprobieren 
+- **Sprachen:** HTML, CSS, JavaScript
+- **GitHub-Link:** [Portfolio]([https://github.com/meinprojekt3](https://portfolio-project-three-tau.vercel.app/))
 
 ---
 
@@ -34,8 +36,8 @@ Hier finden Sie eine Liste meiner Projekte.
 
 Wenn Sie Fragen oder Anregungen zu einem meiner Projekte haben oder mit mir in Kontakt treten möchten, können Sie mich über die folgenden Kanäle erreichen:
 
-- E-Mail: [meine@email.com](mailto:meine@email.com)
-- LinkedIn: [Mein LinkedIn-Profil](https://www.linkedin.com/in/meinprofil)
+- E-Mail: [meine@email.com](mailto:mail@martindrus.de)
+- LinkedIn: [Mein LinkedIn-Profil](www.linkedin.com/in/martin-drus)
 
 ---
 
