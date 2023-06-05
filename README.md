@@ -13,7 +13,8 @@ Hier finden Sie eine Liste meiner Projekte.
 - **Name:** Fride Management App
 - **Beschreibung:** Eine Webanwendung für die Verwaltung eines fiktiven Kühlschranks.
 - **Sprachen:** HTML, CSS, JavaScript
-- **GitHub-Link:** [Fridge Management App](https://martindrus.github.io/Fridge-Management-App/)
+- **GitHub-Link:** [Fridge Management App Repository](https://github.com/MartinDrus/Fridge-Management-App)
+- **App-Link:** [Fridge Management App](https://martindrus.github.io/Fridge-Management-App/)
 
 ### Team Organzier
 
