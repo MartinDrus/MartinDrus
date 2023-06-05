@@ -13,30 +13,33 @@ Hier finden Sie eine Liste meiner Projekte.
 - **Name:** Fride Management App
 - **Beschreibung:** Eine Webanwendung für die Verwaltung eines fiktiven Kühlschranks.
 - **Sprachen:** HTML, CSS, JavaScript
-- **GitHub-Link:** [Fridge Management App Repository](https://github.com/MartinDrus/Fridge-Management-App)
-- **App-Link:** [Fridge Management App](https://martindrus.github.io/Fridge-Management-App/)
+- **GitHub-Link:** <a href="https://github.com/MartinDrus/Fridge-Management-App" target="_blank">Fridge Management Repository </a>
+- **App-Link:** <a href="https://martindrus.github.io/Fridge-Management-App/" target="_blank">Fridge Management App</a>
 
 ### Team Organzier
 
 - **Name:** Team Organzier
-- **Beschreibung:** Zufällige Wahl einer Person oder Teilgruppe eines Teams
+- **Beschreibung:** Zufällige Wahl einer Person oder Teilgruppe eines Teams 
 - **Sprachen:** React, JavaScript
-- **GitHub-Link:** [Team Organizer](https://team-organizer-one.vercel.app/)
+- **GitHub-Link:** <a href="https://github.com/MartinDrus/team-organizer" target="_blank">Team Organizer Repository</a>
+- **App-Link:** <a href="https://team-organizer-one.vercel.app/" target="_blank">Team Organizer App</a>
 
 ### ArtShuttle
 
 - **Name:** ArtShuttle
 - **Beschreibung:** Eine Plattform für Online-Kurse
 - **Sprachen:** React, JavaScript
-- **GitHub-Link:** [ArtShuttle](https://frontend-red-nine.vercel.app/)
-
+- **GitHub-Link:** <a href="https://github.com/MaNiMa-Final-Project/Frontend" target="_blank">ArtShuttle Frontend Repo</a>
+- **GitHub-Link:** <a href="https://github.com/MaNiMa-Final-Project/Backend" target="_blank">ArtShuttle Backend Repo</a>
+- **App-Link:** <a href="https://frontend-red-nine.vercel.app/" target="_blank">ArtShuttle</a>
 
 ### Portfolio
 
-- **Name:** Projekt 3
+- **Name:** Portfolio
 - **Beschreibung:** Projekt um sich Auszuprobieren 
 - **Sprachen:** HTML, CSS, JavaScript
-- **GitHub-Link:** [Portfolio](https://portfolio-project-three-tau.vercel.app/)
+- **GitHub-Link:** <a href="https://github.com/MartinDrus/Portfolio-Project" target="_blank">Portfolio Repository</a>
+- **App-Link:** <a href="https://portfolio-project-three-tau.vercel.app/" target="_blank">Portfolio</a>
 
 ---
 
@@ -45,7 +48,7 @@ Hier finden Sie eine Liste meiner Projekte.
 Wenn Sie Fragen oder Anregungen zu einem meiner Projekte haben oder mit mir in Kontakt treten möchten, können Sie mich über die folgenden Kanäle erreichen:
 
 - E-Mail: [mail@martindrus.de](mailto:mail@martindrus.de)
-- LinkedIn: [Mein LinkedIn-Profil](www.linkedin.com/in/martin-drus)
+- LinkedIn: <a href="www.linkedin.com/in/martin-drus" target="_blank">Mein LinkedIn-Profil</a>
 
 ---
 
