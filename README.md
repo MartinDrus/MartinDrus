@@ -7,14 +7,14 @@ Hier finden Sie eine Liste meiner Projekte.
 
 ## Projekte
 
-### Projekt 1
+### ArtShuttle
 
 - **Name:** ArtShuttle
 - **Beschreibung:** Eine Plattform für Online-Kurse
 - **Sprachen:** React, JavaScript
 - **GitHub-Link:** [ArtShuttle](https://frontend-red-nine.vercel.app/)
 
-### Projekt 2
+### Fridge Management App
 
 - **Name:** Fride Management App
 - **Beschreibung:** Eine Webanwendung für die Verwaltung eines fiktiven Kühlschranks.
