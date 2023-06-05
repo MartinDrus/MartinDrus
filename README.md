@@ -35,7 +35,7 @@ Hier finden Sie eine Liste meiner Projekte.
 - **Name:** Projekt 3
 - **Beschreibung:** Projekt um sich Auszuprobieren 
 - **Sprachen:** HTML, CSS, JavaScript
-- **GitHub-Link:** [Portfolio]([https://github.com/meinprojekt3](https://portfolio-project-three-tau.vercel.app/)
+- **GitHub-Link:** [Portfolio](https://portfolio-project-three-tau.vercel.app/)
 
 ---
 
