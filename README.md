@@ -44,7 +44,7 @@ Here you will find a list of my projects.
 - **Description:** A simple task manager application.
 - **Languages:** JavaScript, TypeScript, SCSS
 - **GitHub Link:** [Task Manager Repository](https://github.com/MartinDrus/TS-To_Do_App)
-- **App Link:** [Task Manager](https://martindrus.github.io/TS-To_Do_App/)
+- **App Link:** [Task Manager](https://ts-to-do-app.vercel.app/)
 
 ---
 
