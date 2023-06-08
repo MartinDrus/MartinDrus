@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Martin</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
@@ -26,7 +25,7 @@ Here you will find a list of my projects.
 
 - **Name:** Team Organizer
 - **Description:** Randomly selects a person or subgroup within a team.
-- **Languages:** React, JavaScript
+- **Languages:** JavaScript, Canvas
 - **GitHub Link:** [Team Organizer Repository](https://github.com/MartinDrus/team-organizer)
 - **App Link:** [Team Organizer App](https://team-organizer-one.vercel.app/)
 
@@ -34,18 +33,18 @@ Here you will find a list of my projects.
 
 - **Name:** ArtShuttle
 - **Description:** An online course platform.
-- **Languages:** React, JavaScript
+- **Languages:** React, JavaScript, SCSS
 - **GitHub Link (Frontend):** [ArtShuttle Frontend Repo](https://github.com/MaNiMa-Final-Project/Frontend)
 - **GitHub Link (Backend):** [ArtShuttle Backend Repo](https://github.com/MaNiMa-Final-Project/Backend)
 - **App Link:** [ArtShuttle](https://frontend-red-nine.vercel.app/)
 
-### Portfolio
+### Task Manager
 
-- **Name:** Portfolio
-- **Description:** Project for experimenting and showcasing my work.
-- **Languages:** HTML, CSS, JavaScript
-- **GitHub Link:** [Portfolio Repository](https://github.com/MartinDrus/Portfolio-Project)
-- **App Link:** [Portfolio](https://portfolio-project-three-tau.vercel.app/)
+- **Name:** Task Manager
+- **Description:** A simple task manager application.
+- **Languages:** JavaScript, TypeScript, SCSS
+- **GitHub Link:** [Task Manager Repository](https://github.com/MartinDrus/TS-To_Do_App)
+- **App Link:** [Task Manager](https://martindrus.github.io/TS-To_Do_App/)
 
 ---
 
